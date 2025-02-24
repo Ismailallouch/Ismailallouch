@@ -20,7 +20,7 @@ I am open to collaborating on **data-driven projects**, **web and mobile applica
 ## 📫 Contact Me  
 📩 Email: [allouchsmail92@gmail.com](mailto:allouchsmail92@gmail.com)  
 🌐 LinkedIn: *[ismailallouch]*  
-🚀 Portfolio: *[*  
+🚀 Portfolio: https://portfolioismailallouch.netlify.app/  
 
 ## 😄 Pronouns  
 He/Him  
